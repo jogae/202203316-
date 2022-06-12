@@ -1,0 +1,14 @@
+﻿  Func.cpp
+C:\Users\박준성\Desktop\의뢰인-UK\PP\Project1\Func.cpp(47,10): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'size_t'입니다.
+C:\Users\박준성\Desktop\의뢰인-UK\PP\Project1\Func.cpp(47,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\박준성\Desktop\의뢰인-UK\PP\Project1\Func.cpp(80,20): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\박준성\Desktop\의뢰인-UK\PP\Project1\Func.cpp(80,20): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\박준성\Desktop\의뢰인-UK\PP\Project1\Func.cpp(102,20): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\박준성\Desktop\의뢰인-UK\PP\Project1\Func.cpp(102,20): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  Main.cpp
+  코드를 생성하고 있습니다.
+  7 of 14 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Project1.vcxproj -> C:\Users\박준성\Desktop\의뢰인-UK\PP\x64\Release\Project1.exe
